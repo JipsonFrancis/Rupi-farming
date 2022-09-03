@@ -1,2 +1,2 @@
 # Rupi farming
- The UI 
+ The UI a farm e-commerce site which sells different products.
